@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Chaudhary</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif?cid=ecf05e47c305xmj1bbc28k7nlhrwde1tnikts4cop9vgjksu&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha2o&label=Profile%20views&color=0e75b6&style=flat" alt="sneha2o" /> </p>
 
