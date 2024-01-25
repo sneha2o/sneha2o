@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Chaudhary</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/intuit-giant-done-intuit-giant-done-code-coding-gif-13593615">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif?cid=ecf05e47c305xmj1bbc28k7nlhrwde1tnikts4cop9vgjksu&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha2o&label=Profile%20views&color=0e75b6&style=flat" alt="sneha2o" /> </p>
 
