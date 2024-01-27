@@ -1,7 +1,7 @@
 
 
 
-![MasterHead](https://www.canva.com/design/DAF63w3wWhE/heKQ7WGrKJt5hdzgzSiTnQ/edit)
+![logo](https://github.com/sneha2o/sneha2o/blob/main/White%20Neon%20Modern%20with%20Diamond%20Texture%20and%20Dots%20Pattern%20Gradient%20Background%20NFT%20Twitter%20Header.gif)
 
 
 
