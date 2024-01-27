@@ -9,7 +9,7 @@
 <h1 align="center">Hey..guys👋, I'm Sneha Chaudhary</h1>
 <h3 align="center">CS & IT Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
+<img align="right" alt="Coding" width="350" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha2o&label=Profile%20views&color=0e75b6&style=flat" alt="sneha2o" /> </p>
 
