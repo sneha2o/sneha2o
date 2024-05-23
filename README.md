@@ -1,7 +1,7 @@
 
 
 
-![logo](https://github.com/sneha2o/sneha2o/blob/main/Yellow%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner.gif)
+![logo](https://github.com/sneha2o/sneha2o/blob/main/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner%20(1).png)
 
 
 
