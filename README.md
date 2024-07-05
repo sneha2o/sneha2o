@@ -69,11 +69,11 @@
 
 ###
 
-<h2 align="left">🦋 My Activities</h2>
+<img src="https://raw.githubusercontent.com/sneha2o/sneha2o/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/sneha2o/sneha2o/output/snake.svg" alt="Snake animation" />
+<h2 align="left">🦋 My Activities</h2>
 
 ###
 
