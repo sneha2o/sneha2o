@@ -4,36 +4,86 @@
 ![logo](https://github.com/sneha2o/sneha2o/blob/main/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner%20(1).png)
 
 
-
 <h1 align="center">Hey..guys👋, I'm Sneha Chaudhary</h1>
+
+###
+
 <h3 align="center">CS & IT Student</h3>
 
-<img align="right" alt="Coding" width="350" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha2o&label=Profile%20views&color=0e75b6&style=flat" alt="sneha2o" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sneha2o.sneha2o&left_color=steelblue&right_color=orchid&left_text=Views"  />
+</div>
 
-- 🌱 I’m currently learning **python d'jango**
+###
 
-- 👨‍💻 All of my projects are available at [github.com/sneha2o](github.com/sneha2o)
+<h2 align="left">🦋 About me</h2>
 
-- 📫 How to reach me **snehachudhary4@gmail.com**
+###
 
-- ⚡ Fun fact **I think i am funny**
+<img align="right" height="250" src="https://camo.githubusercontent.com/ff4c0739c245efcb586ea0ff6d7c5b123140da1a88f603af71dd4e1053f02819/68747470733a2f2f6469676974616c7363686f6c61722e696e2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f6f6e6c696e652d6c6561726e696e672e676966"  />
 
-<h3 align="left">🦋Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sneha_o2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sneha_o2_" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/sneha070205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sneha070205" height="30" width="40" /></a>
-<a href="https://instagram.com/_.sonuuu_.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sonuuu_.05" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">🦋Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- 
-<h3 align="left">🦋GitHub Status:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha2o&show_icons=true&locale=en&layout=compact" alt="sneha2o"  /></p>
+<p align="left">🌱 I’m currently learning python d'jango<br><br>👨‍💻 All of my projects are available at github.com/sneha2o<br><br>📫 How to reach me snehachudhary4@gmail.com<br><br>⚡ Fun fact I think i am funny</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha2o&show_icons=true&locale=en" alt="sneha2o" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha2o&" alt="sneha2o" /></p>
+<h2 align="left">🦋 Social Media</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
+
+###
+
+<h2 align="left">🦋 I Code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
+
+###
+
+<h2 align="left">🦋 My Activities</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/sneha2o/sneha2o/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sneha2o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha2o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sneha2o&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sneha2o&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha2o&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
