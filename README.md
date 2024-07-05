@@ -1,5 +1,7 @@
 ![logo](https://github.com/sneha2o/sneha2o/blob/main/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner%20(1).png)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <h1 align="center">Hey..guys👋, I'm Sneha Chaudhary</h1>
 
@@ -18,16 +20,18 @@
 <h2 align="left">🦋 About me</h2>
 
 ###
-
-<img align="right" height="250" src="https://camo.githubusercontent.com/ff4c0739c245efcb586ea0ff6d7c5b123140da1a88f603af71dd4e1053f02819/68747470733a2f2f6469676974616c7363686f6c61722e696e2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f6f6e6c696e652d6c6561726e696e672e676966"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img align="right" height="200" src="https://camo.githubusercontent.com/ff4c0739c245efcb586ea0ff6d7c5b123140da1a88f603af71dd4e1053f02819/68747470733a2f2f6469676974616c7363686f6c61722e696e2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f6f6e6c696e652d6c6561726e696e672e676966"  />
 
 ###
+
 
 <p align="left">🌱 I’m currently learning python d'jango<br><br>👨‍💻 All of my projects are available at github.com/sneha2o<br><br>📫 How to reach me snehachudhary4@gmail.com<br><br>⚡ Fun fact I think i am funny</p>
 
 ###
 
 <h2 align="left">🦋 Social Media</h2>
+
 
 ###
 
@@ -38,7 +42,9 @@
 <a href="https://instagram.com/_.sonuuu_.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sonuuu_.05" height="30" width="40" /></a>
 </p>
 
+
 ###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 align="left">🦋 I Code with</h2>
 
@@ -63,13 +69,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-###
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="left">🦋 My Activities</h2>
 
 ###
@@ -83,4 +89,5 @@
 </div>
 
 ###
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
