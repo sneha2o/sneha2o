@@ -66,7 +66,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sneha2o/sneha2o/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
