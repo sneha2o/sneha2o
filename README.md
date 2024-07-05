@@ -44,7 +44,7 @@
 
 
 ###
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <h2 align="left">🦋 I Code with</h2>
 
@@ -76,17 +76,30 @@
 
 ###
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2 align="left">🦋 My Activities</h2>
+
+
+### 🦋 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sneha2o&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
 
+
+<h2 align="left">🦋 My Activities</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sneha2o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha2o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sneha2o&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sneha2o&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
+<h2 align="left">🦋 My Contribution</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha2o&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app?username=sneha2o&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+
 
 ###
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
